@@ -9,7 +9,7 @@ Galactic Crisis Mode is a hybrid of the standard *Star Trek: Ascendancy* game an
 ## Setup
 
 * Play with **4 players**.
-* Use the **Dominion War starting economy**, with each player beginning with **12 random resource nodes**.
+* Use the **Dominion War starting economy**, but do **not** connect the starting systems.
 * Otherwise play using the standard rules.
 
 ---
@@ -27,9 +27,9 @@ The following events increase the Crisis Track:
 | Build a Starbase                   |   +1   |
 | Establish a Trade Agreement        |   +1   |
 | Gain an Ascendancy                 |   +1   |
-| Capture an enemy-controlled system |   +2   |
+| Capture/raze an enemy colony       |   +2   |
 
-Space battles do **not** increase the Crisis Track.
+(Space battles do **not** increase the Crisis Track.)
 
 When the Crisis Track reaches **40 points**, the **Galactic Crisis** immediately begins.
 
@@ -48,11 +48,9 @@ The remaining two players automatically become the opposing alliance.
 
 ### Conquered Player Exception
 
-If a player's **homeworld has already been conquered** before the Galactic Crisis begins, that player is automatically considered the weakest player regardless of resource nodes.
+If a player's **homeworld is conquered** before the Galactic Crisis begins, that player is automatically considered the weakest player regardless of resource nodes and they **immediately** choose their ally.
 
-They immediately choose their ally.
-
-They may choose **any** remaining player, including the empire currently occupying their homeworld.
+They may choose **any** remaining player, including the empire currently occupying their homeworld. If so, they are no longer conquered and can act normally.
 
 ---
 
