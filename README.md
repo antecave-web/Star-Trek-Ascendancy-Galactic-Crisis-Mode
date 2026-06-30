@@ -1,14 +1,25 @@
-# Star Trek: Ascendancy – Galactic Crisis Mode (4 Players)
+# Star Trek: Ascendancy – Galactic Crisis Mode
 
 ## Overview
 
 Galactic Crisis Mode is a hybrid of the standard *Star Trek: Ascendancy* game and the Dominion War Alliance Mode. Players begin with the freedom to explore, expand and develop independently, but as the quadrant matures, rising tensions inevitably force the major powers into two opposing alliances. From that point onward, the Dominion War conquest, Resistance and Ascendancy victory rules take over.
 
+## Design Goals
+
+This variant is intended to:
+
+* Preserve the exploration and discovery of the standard game.
+* Speed up the early economic development.
+* Prevent premature Ascendancy victories before meaningful player interaction.
+* Eliminate free-for-all kingmaking and 2-vs-1 dynamics.
+* Create alliances that emerge naturally from the state of the galaxy.
+* Ensure the late game is fought with developed empires, advanced technologies and large fleets.
+
 ---
 
 ## Setup
 
-* Play with **4 players**.
+* Balanced around **4 players**.
 * Use the **Dominion War starting economy**, but do **not** connect the starting systems.
 * Otherwise play using the standard rules.
 
@@ -64,13 +75,16 @@ Once alliances have been formed:
 
 ---
 
-## Design Goals
+## Detailed Description
 
-This variant is intended to:
+*What if Star Trek: Ascendancy didn't end just as the galaxy became interesting?*
 
-* Preserve the exploration and discovery of the standard game.
-* Speed up the early economic development.
-* Prevent premature Ascendancy victories before meaningful player interaction.
-* Eliminate free-for-all kingmaking and 2-vs-1 dynamics.
-* Create alliances that emerge naturally from the state of the galaxy.
-* Ensure the late game is fought with developed empires, advanced technologies and large fleets.
+Galactic Crisis Mode is a hybrid game mode that combines the exploration and empire-building of the base game with the large-scale, alliance conflict and Resistance mechanics of the Dominion War expansion, creating a more structured and cinematic arc from first contact to galactic war.
+
+The early game remains focused on exploration, colonization and technological development, but with the accelerated start of Dominion War. As civilizations expand, rising galactic tensions are tracked through a simple Crisis system that culminates in a major political realignment. Alliances are formed based on the strategic situation on the map rather than predetermined teams, transforming the initial race for dominance into a balanced struggle for political positioning as well.
+
+Unlike standard Ascendancy, Dominin War rules makes military conflict not optional. Victory through Ascendancy is only possible after defeating at least half of the opposing civilizations, ensuring that fleets, advanced technologies and hard-earned empires play a decisive role in the outcome of the game. At the same time, the Resistance system keeps conquered players involved until the very end, avoiding early elimination while creating new strategic dilemmas for every alliance.
+
+Galactic Crisis Mode is designed for players who enjoy the exploration and discovery of the original game but want a stronger midgame, more meaningful warfare, and an endgame that feels earned rather than abrupt. Rather than replacing Star Trek: Ascendancy, it aims to preserve its core mechanics while reshaping the pacing into a more dramatic journey from exploration, to Cold War, into total war.
+
+---
