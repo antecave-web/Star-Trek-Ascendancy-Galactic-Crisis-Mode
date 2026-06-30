@@ -42,7 +42,7 @@ The following events increase the Crisis Track:
 
 (Space battles do **not** increase the Crisis Track.)
 
-When the Crisis Track reaches **40 points**, the **Galactic Crisis** immediately begins.
+When the Crisis Track reaches **40 points** (~10 per player), the **Galactic Crisis** immediately begins.
 
 ---
 
