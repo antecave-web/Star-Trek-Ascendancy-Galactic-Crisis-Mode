@@ -1,4 +1,4 @@
-# Star Trek: Ascendancy – Galactic Crisis Mode
+# Star Trek: Ascendancy – Galactic Crisis Mode v 1.0
 
 ## Overview
 
