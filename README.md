@@ -109,7 +109,7 @@ Retreating ships must retreat to the adjacent system they attacked from, and def
 
 *Use Long-Term research.*
 * When starting new project, draw 4 tech cards, and keep up to as many as you have free research nodes (One active reserach project per node), discarding the rest.
-* During your recharge or build phase you may add one research point to all your in progress research projects. Project instantly finish once the cost has been reached.
+* During your build phase you may add one research point to all your in progress research projects. Project instantly finish once the cost has been reached.
 
 Researching weapons or shields is now done in the command phase and costs 1 command point, just like starting new projects.
 
