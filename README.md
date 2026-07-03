@@ -2,7 +2,7 @@
 
 ## Overview
 
-Galactic Crisis Mode is a hybrid of the standard *Star Trek: Ascendancy* game and the Dominion War Alliance Mode. Players begin with the freedom to explore, expand and develop independently, but as the quadrant matures, rising tensions inevitably force the major powers into two opposing alliances. From that point onward, the Dominion War conquest, Resistance and Ascendancy victory rules take over.
+Galactic Crisis Mode is a hybrid of the standard *Star Trek: Ascendancy* game and the Dominion War Alliance Mode. Players begin with the freedom to explore, expand and develop independently, but as the quadrant matures, rising tensions inevitably force the major powers into two opposing alliances. From that point onward, the Dominion War conquest, Resistance and Ascendancy victory rules take over. I have endeavored to keep the original strategic commitments, adopt official improvements that reduce downtime and randomness, and only introduced new mechanics where they solve structural pacing problems.
 
 ## Design Goals
 
@@ -76,6 +76,7 @@ Once alliances have been formed:
 ---
 
 ## Recommended Core Rule Updates
+This variant recommends adopting selected rules from The Final Frontier while retaining certain mechanics from the original game where they better support the design goals. Modifications to those rules are explicitly noted below.
 
 Use the following rules changes from the GF9 *Ascendancy: The Final Frontier Rulebook*
 https://drive.google.com/file/d/1K9qVknW8sNpRYoJeKO51ZRxjKZstqn5c/view
@@ -113,8 +114,8 @@ Researching weapons or shields is now done in the command phase and costs 1 comm
 *Use the following modifications to old and optional rules for CAPTURING RESEARCH NODES:*
 After a taking control of enemy research nodes, for each one, the attacker may (if you have free research nodes) either:
 * draw a random technology from the defender's unresearched deck, or
-* take one technology currently being researched, including all accumulated research progress.
-Then, take one reserach point from the enemy for each conquered reserach node if they have any stockpiled.
+* capture one of the defender's active research projects, including all accumulated research progress.
+Then, remove one stockpiled Research from the defender and add it to your stockpile for each conquered Research Node, if available.
 
 ---
 
