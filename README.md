@@ -1,4 +1,4 @@
-# Star Trek: Ascendancy – Galactic Crisis Mode v 1.0
+# Star Trek: Ascendancy – Galactic Crisis Mode v 1.1
 
 ## Overview
 
@@ -72,6 +72,15 @@ Once alliances have been formed:
 * Begin using the **Dominion War Alliance Mode** rules.
 * Use the **Conquest**, **Resistance**, and **Alliance** rules from that mode.
 * Ascendancy victory is not available until the Dominion War victory conditions allow it.
+
+---
+
+## Recommended Optional rules
+
+Use the following rules changes from the GF9 *Ascendancy: The Final Frontier Rulebook* (https://drive.google.com/file/d/1K9qVknW8sNpRYoJeKO51ZRxjKZstqn5c/view):
+* Simultaneous Build phase, followed by a Command phase where players take clockwise turns executing one command at a time untill no comand tokens remain unspent. Additionaly, players can spend one command to generate 1 resource of any type.
+* Movement rework: Impulse movement costs 1 command and is enough to move one system over. Warp speed costs 2 command and move up to two systems + any bonuses from research. (I.e no waiting in warp, collecting warp tokens, or popping out somehere later.)
+* Starting with 8 resource nodes insted of the Dominion War standard of 12.
 
 ---
 
