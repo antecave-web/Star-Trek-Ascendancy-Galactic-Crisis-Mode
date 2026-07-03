@@ -80,7 +80,7 @@ Once alliances have been formed:
 Use the following rules changes from the GF9 *Ascendancy: The Final Frontier Rulebook*
 https://drive.google.com/file/d/1K9qVknW8sNpRYoJeKO51ZRxjKZstqn5c/view
 * Simultaneous Build phase, followed by a Command phase where players take clockwise turns executing one command at a time untill no comand tokens remain unspent. Additionaly, players can spend one command to generate 1 production, or two commands to generate 1 research.
-* Movement rework: Impulse movement costs 1 command and is enough to move one system over. Warp speed costs 2 command and move up to two systems + any bonuses from research. (I.e no waiting in warp, collecting warp tokens, or popping out somehere later.) Option to immediately attack after movment by spending an extra command token.
+* Movement rework: Impulse movement costs 1 command and is enough to move one system over. Warp speed costs 2 command and move up to two systems + any bonuses from research. (I.e no waiting in warp, collecting warp tokens, or popping out somehere later.) Option to immediately attack after movment; To do so, Move to a System with rival Ships in Orbit, but halt on the Space Lane Attached to the System before you arrive. Then immediately Exhaust another Command token to initiate the Space Battle. This is the only way you can end a Move at Impulse or Warp command on a Space Lane rather than In Orbit of a System. You may always move through Systems you Control (one where you have a Control Node), regardless of the presence of rival Ships.
 * Starting with 8 resource nodes insted of the Dominion War standard of 12.
 
 ---
