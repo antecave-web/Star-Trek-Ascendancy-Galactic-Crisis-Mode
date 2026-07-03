@@ -20,7 +20,7 @@ This variant is intended to:
 ## Setup
 
 * Balanced around **4 players**.
-* Use the **Dominion War starting economy**, but do **not** connect the starting systems.
+* Use the **Dominion War starting system**, but do **not** connect the starting systems.
 * Otherwise play using the standard rules.
 
 ---
@@ -79,9 +79,42 @@ Once alliances have been formed:
 
 Use the following rules changes from the GF9 *Ascendancy: The Final Frontier Rulebook*
 https://drive.google.com/file/d/1K9qVknW8sNpRYoJeKO51ZRxjKZstqn5c/view
-* Simultaneous Build phase, followed by a Command phase where players take clockwise turns executing one command at a time untill no comand tokens remain unspent. Additionaly, players can spend one command to generate 1 production, or two commands to generate 1 research.
-* Movement rework: Impulse movement costs 1 command and is enough to move one system over. Warp speed costs 2 command and move up to two systems + any bonuses from research. (I.e no waiting in warp, collecting warp tokens, or popping out somehere later.) Option to immediately attack after movment; To do so, Move to a System with rival Ships in Orbit, but halt on the Space Lane Attached to the System before you arrive. Then immediately Exhaust another Command token to initiate the Space Battle. This is the only way you can end a Move at Impulse or Warp command on a Space Lane rather than In Orbit of a System. You may always move through Systems you Control (one where you have a Control Node), regardless of the presence of rival Ships. When attacking, you can move ships/fleets in adjacent systems in to help with the attack for free.
-* Starting with 8 resource nodes insted of the Dominion War standard of 12.
+
+### Core
+
+Simultaneous Build phase, followed by a Command phase where players take clockwise turns executing one command at a time untill no comand tokens remain unspent. Additionaly, players can spend one command to generate 1 production, or two commands to generate 1 research.
+
+### Setup
+
+Start with 8 resource nodes worth of home systems insted of the Dominion War standard of 12, and freely place your 3 starting ships in your home systems. (Especially important for Cardassians)
+
+### Movement
+
+Impulse movement costs 1 command and is enough to move one system over.
+
+Warp speed costs 2 command and move up to two systems + any bonuses from research. (I.e no waiting in warp, collecting warp tokens, or popping out somehere later.) 
+
+Optional to immediately attack after movment. To do so, Move to a System with rival Ships in Orbit, but halt on the Space Lane Attached to the System before you arrive. Then immediately Exhaust another Command token to initiate the Space Battle. This, or being denied movement by a trade partner, is the only way you can end a Move at Impulse or Warp command on a Space Lane rather than In Orbit of a System.
+
+You may always move through Systems you Control (one where you have a Control Node), regardless of the presence of rival Ships. 
+
+### Combat
+
+When attacking, you can move ships or fleets in adjacent systems in to help with the attack for free as part of the attack command.
+
+### Research
+
+*Use Long-Term research.*
+* When starting new project, draw 4 tech cards, and keep up to as many as you have free research nodes (One active reserach project per node), discarding the rest.
+* During your recharge or build phase you may add one research point to all your in progress research projects. Project instantly finish once the cost has been reached.
+
+Researching weapons or shields is now done in the command phase and costs 1 command point, just like starting new projects.
+
+*Use the following modifications to old and optional rules for CAPTURING RESEARCH NODES:*
+After a taking control of enemy research nodes, for each one, the attacker may (if you have free research nodes) either:
+* draw a random technology from the defender's unresearched deck, or
+* take one technology currently being researched, including all accumulated research progress.
+Then, take one reserach point from the enemy for each conquered reserach node if they have any stockpiled.
 
 ---
 
