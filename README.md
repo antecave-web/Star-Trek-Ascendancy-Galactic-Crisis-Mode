@@ -103,6 +103,8 @@ You may always move through Systems you Control (one where you have a Control No
 
 When attacking, you can move ships or fleets in adjacent systems in to help with the attack for free as part of the attack command.
 
+Retreating ships must retreat to the adjacent system they attacked from, and defending ships must retreat to any adjacent system free of enemy ships. (no retreat into space lanes like in the old rules)
+
 ### Research
 
 *Use Long-Term research.*
