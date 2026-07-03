@@ -21,7 +21,7 @@ This variant is intended to:
 
 * Balanced around **4 players**.
 * Use the **Dominion War starting system**, but do **not** connect the starting systems.
-* Otherwise play using the standard rules.
+* Otherwise play using the standard rules, including the 2/6 chance of any discovered anomaly being the Bajor wormhole system.
 
 ---
 
@@ -34,11 +34,13 @@ The following events increase the Crisis Track:
 | Event                              | Crisis |
 | ---------------------------------- | :----: |
 | Colonize a planet                  |   +1   |
-| Research a technology              |   +1   |
-| Build a Starbase                   |   +1   |
-| Establish a Trade Agreement        |   +1   |
+| Acquire a finished technology      |   +1   |
+| Improve weapons or shields         |   +1   |
+| Build or take a Starbase           |   +1   |
+| Establish a Trade Agreement        |   +2   |
 | Gain an Ascendancy                 |   +1   |
 | Capture/raze an enemy colony       |   +2   |
+| Discover the Bajor wormhole system |   +1   |
 
 (Space battles do **not** increase the Crisis Track.)
 
