@@ -2,11 +2,12 @@
 
 ## Overview
 
-Galactic Crisis Mode is a hybrid of the standard *Star Trek: Ascendancy* game and the Dominion War Alliance Mode. Players begin with the freedom to explore, expand and develop independently, but as the quadrant matures, rising tensions inevitably force the major powers into two opposing alliances. From that point onward, the Dominion War conquest, Resistance and Ascendancy victory rules take over. I have endeavored to keep the original strategic commitments, adopt official improvements that reduce downtime and randomness, and only introduced new mechanics where they solve structural pacing problems.
-
+Galactic Crisis Mode is a hybrid of the standard *Star Trek: Ascendancy* game and the Dominion War Alliance Mode. Players begin with the freedom to explore, expand and develop independently, but as the quadrant matures, rising tensions inevitably force the major powers into two opposing alliances. From that point onward, the Dominion War conquest, Resistance and Ascendancy victory rules take over. 
 ## Design Goals
 
-This variant is intended to:
+I have endeavored to keep the original strategic commitments, adopt official improvements that reduce downtime and randomness, and only introduced new mechanics where they solve structural pacing problems.
+
+This variant is primarily intended to:
 
 * Preserve the exploration and discovery of the standard game.
 * Speed up the early economic development.
@@ -109,16 +110,19 @@ Retreating ships must retreat to the adjacent system they attacked from, and def
 
 ### Research
 
-*Use Long-Term research.*
+Researching weapons or shields is now done in the command phase and costs 1 command point, just like starting new projects.
+
+#### Use the following modifications to old and optional rules:
+
+*Long-Term Research*
 * When starting new project, draw 4 tech cards, and keep up to as many as you have free research nodes (One active reserach project per node), discarding the rest.
 * During your build phase you may add one research point to all your in progress research projects. Project instantly finish once the cost has been reached.
 
-Researching weapons or shields is now done in the command phase and costs 1 command point, just like starting new projects.
-
-*Use the following modifications to old and optional rules for CAPTURING RESEARCH NODES:*
+*Capturing reseach nodes*
 After a taking control of enemy research nodes, for each one, the attacker may (if you have free research nodes) either:
 * draw a random technology from the defender's unresearched deck, or
 * capture one of the defender's active research projects, including all accumulated research progress.
+
 Then, remove one stockpiled Research from the defender and add it to your stockpile for each conquered Research Node, if available.
 
 ---
