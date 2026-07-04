@@ -62,7 +62,7 @@ The remaining two players automatically become the opposing alliance.
 
 ### Conquered Player Exception
 
-If a player's **homeworld is conquered** before the Galactic Crisis begins, that player is automatically considered the weakest player regardless of resource nodes and they **immediately** choose their ally.
+If a player's **homeworld is conquered** before the Galactic Crisis begins, that player is automatically considered the weakest player regardless of resource nodes and they **immediately** choose their ally at the end of the current round.
 
 They may choose **any** remaining player, including the empire currently occupying their homeworld. If so, they are no longer conquered and can act normally.
 
