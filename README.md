@@ -98,7 +98,7 @@ Impulse movement costs 1 command and is enough to move one system over.
 
 Warp speed costs 2 command and move up to two systems + any bonuses from research. (I.e no waiting in warp, collecting warp tokens, or popping out somehere later.) 
 
-Optional to immediately attack after movment. To do so, Move to a System with rival Ships in Orbit, but halt on the Space Lane Attached to the System before you arrive. Then immediately Exhaust another Command token to initiate the Space Battle. This, or being denied movement by a trade partner, is the only way you can end a Move at Impulse or Warp command on a Space Lane rather than In Orbit of a System.
+Optional to immediately attack after movment. To do so, Move to a System with rival Ships in Orbit, but halt on the Space Lane Attached to the System before you arrive. Then immediately Exhaust another Command token to initiate the Space Battle. This is the only way you can end a Move at Impulse or Warp command on a Space Lane rather than In Orbit of a System (But the ships will always move off it after the battle either to occupy or retreat).
 
 You may always move through Systems you Control (one where you have a Control Node), regardless of the presence of rival Ships. 
 
