@@ -51,7 +51,7 @@ When the Crisis Track reaches **40 points** (~10 per player), the **Galactic Cri
 
 ## Forming Alliances
 
-Determine which player controls the **fewest resource nodes**.
+Determine which player controls the **fewest resource nodes + shild & weapon upgrades**.
 
 * Ties are broken by the player controlling the **fewest planets**.
 * If still tied, resolve by random roll.
