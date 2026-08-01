@@ -114,13 +114,8 @@ Researching weapons or shields is now done in the command phase and costs 1 comm
 
 #### Use the following modifications to old and optional rules:
 
-*Long-Term Research*
-* When starting new project, draw 4 tech cards, and keep up to as many as you have free research nodes (One active reserach project per node), discarding the rest.
-* During your build phase you may add one research point to all your in progress research projects. Project instantly finish once the cost has been reached.
-
 *Capturing reseach nodes*
-After a taking control of enemy research nodes, for each one, the attacker may (if you have free research nodes) either:
-* draw a random technology from the defender's unresearched deck, or
+After a taking control of enemy research nodes, for each one, the attacker may:
 * capture one of the defender's active research projects, including all accumulated research progress.
 
 Then, remove one stockpiled Research from the defender and add it to your stockpile for each conquered Research Node, if available.
